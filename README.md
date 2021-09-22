@@ -6,5 +6,5 @@ This project aims at extracting real-time event templates for disaster response 
 
 The following is a prototype of the proposed system.
 
-![Watch the video](https://youtu.be/D8nm_FyNqvU)]
+![Watch the video](https://youtu.be/D8nm_FyNqvU)
 
