@@ -8,6 +8,6 @@ The following is a prototype of the proposed system.
 
 ![Watch the video](https://youtu.be/D8nm_FyNqvU)
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/D8nm_FyNqvU)
+[![Watch the video](https://github.com/mu-clab/Disaster-event-extraction/blob/main/thumbnail.png)](https://youtu.be/D8nm_FyNqvU)
 
 
