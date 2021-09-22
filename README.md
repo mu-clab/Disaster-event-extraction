@@ -5,3 +5,6 @@ This project aims at extracting real-time event templates for disaster response 
 ![Event Template](https://github.com/mu-clab/Disaster-event-extraction/blob/main/event_template.png)
 
 The following is a prototype of the proposed system.
+
+[![Watch the video](https://youtu.be/D8nm_FyNqvU)]
+
